@@ -1,3 +1,3 @@
 # sf_data_science
 SF homework
-By Vezdexod
+By Vezdexod v2
